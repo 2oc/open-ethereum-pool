@@ -1,7 +1,7 @@
 {
 	"threads": 2,
 	"coin": "music",
-	"name": "main",
+	"name": "second",
 
 	"proxy": {
 		"enabled": true,
