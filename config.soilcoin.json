@@ -94,7 +94,7 @@
 	},
 
 	"payouts": {
-		"enabled": true,
+		"enabled": false,
 		"requirePeers": 1,
 		"interval": "5m",
 		"daemon": "http://127.0.0.1:8545",
